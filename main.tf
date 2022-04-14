@@ -1,6 +1,9 @@
 /**
  * # Digital Ocean CDN
  *
+ * [![CI](https://github.com/figurate/terraform-digitalocean-cdn/actions/workflows/main.yml/badge.svg)](https://github.com/figurate/terraform-digitalocean-cdn/actions/workflows/main.yml)
+ *
+ *
  * ![Digital Ocean CDN](digital_ocean_cdn.png)
  */
 data "digitalocean_domain" apex_domain {
